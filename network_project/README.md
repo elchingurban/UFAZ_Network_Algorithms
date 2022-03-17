@@ -1,0 +1,2 @@
+Unfortunately, the notebook is not shown as it is too long to render by GitHub.\
+The solution is to view the notebook via [nbviewer](https://nbviewer.org/) by pasting the [notebook url](https://github.com/elchingurban/UFAZ_Network_Algorithms/blob/main/network_project/Netwroks_Project.ipynb) into nbviewer search placeholder.
